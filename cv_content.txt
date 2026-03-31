@@ -1,0 +1,65 @@
+Rudra Narayan Nayak 
+LinkedIn: https://www.linkedin.com/in/rudra-narayan-nayak-/                                              Email:  rudran089@gmail.com 
+GitHub:  https://github.com/Rudra-Nayak                                                                                     Mobile:  +91 7847871204 
+S
+KILLS
+ 
+Languages:               Python, Java, C++, C . 
+Web:                              HTML, CSS , JavaScript, ReactJs. 
+Database:                 MySQL. 
+Tools/Platforms:      Power Bi, Microsoft Excel, Jupyter, Git and GitHub, VS code  
+Soft Skills:               Problem-Solving, Team Player, Attention to Detail,  Quick Learner. 
+P
+ROJECTS
+ 
+Online Shopper Intention Predictio  n | GitHub                                                                                                  Jul’25 
+•     Preprocessed and analyzed online shopper datasets, engineered key behavioral features, and improved model 
+accuracy by 12% through normalization and tuning. 
+•     Developed and trained predictive ML models (Logistic Regression, Random Forest, XG-boost) to classify 
+purchase intent with strong performance on real -world session data. 
+•     Built and deployed a Flask-based web app with a clean HTML/BootStrap CSS interface enabling real-time 
+purchase prediction and a faster, user-friendly workflow. 
+  Personal Consumption Expenditure Dashboard  | GitHub                                                                              Jan ’26 
+•     Designed an interactive Power BI dashboard analyzing U.S. state-level personal consumption 
+expenditure data to identify spending patterns and growth trends.  
+•     Performed data cleaning and transformation, creating calculated measures for accurate KPI tracking and 
+comparative analysis. 
+•     Presented key insights including Total Spending, Year-over-Year Growth, and category-wise 
+performance using dynamic visuals and slicers. 
+ 
+T
+RAINING
+ 
+LPU Skill Development | Certificate                                                                                                    Jun’ 25 – Jul’ 25 
+  Machine Learning Made Easy: From Basics to AI Applications           
+•      Performed  in-depth  Exploratory  Data  Analysis  (EDA)  using  NumPy  and  Pandas,  streamlining 
+preprocessing workflows and reducing data preparation time by 20 percent.  
+•      Engineered,  trained,  and  evaluated  multiple  Machine  Learning  models  (Linear  Regression,  KNN, 
+SVM, Decision Trees, K-Means, Ensemble Methods) using Scikit-learn, achieving an average model 
+accuracy improvement of 15 percent. 
+•      Deployed trained ML models on a web interface, enabling real-time prediction and user interaction. 
+•      Gained hands -on experience with Generative AI, workflow automation using n8n, and developing 
+agentic AI applications. 
+ 
+C
+ERTIFICATES
+ 
+Become an OCI AI Foundations Associate (2025) | Oracle                                                                                                 Feb ’26   
+Cloud Computing | NPTEL                                                                                                                                        Apr’ 25 
+Intro to SQL | Kaggle                                                                                                                                                Nov’ 25 
+ 
+E
+DUCATION
+ 
+Lovely Professional University                                                                                               Phagwara, Punjab 
+Bachelor of Technology                                                                                                                              Aug’ 23 – Present 
+Computer Science and Engineering; CGPA: 6.71 
+ 
+Bhadrak  Higher Secondary School                                                                                                             Bhadrak, Odisha  
+Intermediate                                                                                                                                                 Mar’ 20 – May’ 22 
+PCM; Percentage: 63% 
+ 
+St. Xavier High School                                                                                                                                          Bhadrak, Odisha  
+Matriculation                                                                                                                                                  Mar’ 16 – May’ 20 
+Percentage:   83% 
+----------------Page (0) Break----------------
