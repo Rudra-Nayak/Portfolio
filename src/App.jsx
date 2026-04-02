@@ -427,7 +427,7 @@ export default function Portfolio() {
             <div style={{ color: 'var(--accent-pink)', marginBottom: '1rem', fontWeight: '500' }}>Oracle</div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span className="tech-tag">Feb 2026</span>
-              <a href="#" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
+              <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=023A8EB2E02BCABD23B42177AD5C790691D9C1B76C3F3754AC38A0C5AE07B05E" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                 View <ExternalLink size={12} />
               </a>
             </div>
@@ -438,7 +438,7 @@ export default function Portfolio() {
             <div style={{ color: 'var(--accent-pink)', marginBottom: '1rem', fontWeight: '500' }}>NPTEL</div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span className="tech-tag">Apr 2025</span>
-              <a href="#" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
+              <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs11/Course/NPTEL25CS11S153730248704248714.pdf" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                 View <ExternalLink size={12} />
               </a>
             </div>
@@ -449,7 +449,7 @@ export default function Portfolio() {
             <div style={{ color: 'var(--accent-pink)', marginBottom: '1rem', fontWeight: '500' }}>Kaggle</div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span className="tech-tag">Nov 2025</span>
-              <a href="#" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
+              <a href="https://www.kaggle.com/learn/certification/rudranayak09/intro-to-sql" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                 View <ExternalLink size={12} />
               </a>
             </div>
