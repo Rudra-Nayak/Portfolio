@@ -335,7 +335,8 @@ export default function Portfolio() {
           {/* Project 1 */}
           <div className="glass-card project-card reveal">
             <div className="project-image">
-              Machine Learning Architecture
+              <img src="/shopper_preview.png" alt="Shopper Intention Predictor Preview" className="project-img" />
+              <div className="project-img-overlay"><ExternalLink size={28} /></div>
             </div>
             <div className="project-content">
               <div className="project-header">
@@ -359,7 +360,8 @@ export default function Portfolio() {
           {/* Project 2 */}
           <div className="glass-card project-card reveal delay-200">
             <div className="project-image">
-              Data Visualization Map
+              <img src="/expenditure_preview.png" alt="Expenditure Dashboard Preview" className="project-img" />
+              <div className="project-img-overlay"><ExternalLink size={28} /></div>
             </div>
             <div className="project-content">
               <div className="project-header">
