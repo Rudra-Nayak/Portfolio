@@ -66,7 +66,7 @@ export default function Portfolio() {
   // Intersection Observer
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ['home', 'about', 'skills', 'projects', 'training', 'certifications', 'contact'];
+      const sections = ['home', 'about', 'skills', 'projects', 'training', 'certifications', 'education', 'contact'];
       const current = sections.find(section => {
         const element = document.getElementById(section);
         if (element) {
@@ -105,7 +105,7 @@ export default function Portfolio() {
     }
   };
 
-  const navItems = ['home', 'about', 'skills', 'projects', 'training', 'certifications', 'contact'];
+  const navItems = ['home', 'about', 'skills', 'projects', 'training', 'certifications', 'education', 'contact'];
 
   // Helper for rendering dot progress
   const renderDots = (score) => {
@@ -436,6 +436,43 @@ export default function Portfolio() {
             <div style={{ color: 'var(--accent-pink)', marginBottom: '1rem', fontWeight: '500' }}>Kaggle</div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span className="tech-tag">Nov 2025</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* EDUCATION SECTION */}
+      <section id="education" className="section max-container">
+        <div className="section-title reveal">
+          <span>Academic Background</span>
+          <h2>Education</h2>
+        </div>
+
+        <div className="glass-card reveal">
+          <div style={{ paddingBottom: '1.5rem', borderBottom: '1px solid rgba(255, 255, 255, 0.1)', marginBottom: '1.5rem' }}>
+            <h3 style={{ fontSize: '1.5rem', color: '#fff', marginBottom: '0.5rem' }}>Bachelor of Technology in Computer Science and Engineering</h3>
+            <div style={{ color: 'var(--accent-pink)', fontWeight: '500', fontSize: '1rem', marginBottom: '0.5rem' }}>Lovely Professional University (Phagwara, Punjab)</div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+              <div style={{ color: 'var(--text-secondary)' }}>CGPA: <span style={{ color: '#fff', fontWeight: 'bold' }}>6.71</span></div>
+              <div style={{ color: 'var(--text-secondary)', fontWeight: '600' }}>Aug '23 – Present</div>
+            </div>
+          </div>
+
+          <div style={{ paddingBottom: '1.5rem', borderBottom: '1px solid rgba(255, 255, 255, 0.1)', marginBottom: '1.5rem' }}>
+            <h3 style={{ fontSize: '1.25rem', color: '#fff', marginBottom: '0.5rem' }}>Intermediate (PCM)</h3>
+            <div style={{ color: 'var(--accent-pink)', fontWeight: '500', fontSize: '0.95rem', marginBottom: '0.5rem' }}>Bhadrak Higher Secondary School (Bhadrak, Odisha)</div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+              <div style={{ color: 'var(--text-secondary)' }}>Percentage: <span style={{ color: '#fff', fontWeight: 'bold' }}>63%</span></div>
+              <div style={{ color: 'var(--text-secondary)', fontWeight: '600' }}>Mar '20 – May '22</div>
+            </div>
+          </div>
+
+          <div>
+            <h3 style={{ fontSize: '1.25rem', color: '#fff', marginBottom: '0.5rem' }}>Matriculation</h3>
+            <div style={{ color: 'var(--accent-pink)', fontWeight: '500', fontSize: '0.95rem', marginBottom: '0.5rem' }}>St. Xavier High School (Bhadrak, Odisha)</div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+              <div style={{ color: 'var(--text-secondary)' }}>Percentage: <span style={{ color: '#fff', fontWeight: 'bold' }}>83%</span></div>
+              <div style={{ color: 'var(--text-secondary)', fontWeight: '600' }}>Mar '16 – May '20</div>
             </div>
           </div>
         </div>
