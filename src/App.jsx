@@ -395,7 +395,12 @@ export default function Portfolio() {
               <h3 style={{ fontSize: '1.5rem', color: '#fff', marginBottom: '0.5rem' }}>Machine Learning Made Easy: From Basics to AI Applications</h3>
               <div style={{ color: 'var(--accent-pink)', fontWeight: '500', fontSize: '1rem' }}>LPU Skill Development | Certificate</div>
             </div>
-            <div style={{ color: 'var(--text-secondary)', fontWeight: '600' }}>Jun '25 – Jul '25</div>
+            <div style={{ color: 'var(--text-secondary)', fontWeight: '600', textAlign: 'right' }}>
+              Jun '25 – Jul '25 <br/>
+              <a href="#" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.4rem 1rem', fontSize: '0.8rem', marginTop: '0.5rem', display: 'inline-flex', alignItems: 'center', gap: '0.3rem' }}>
+                View <ExternalLink size={14} />
+              </a>
+            </div>
           </div>
           
           <ul style={{ color: 'var(--text-secondary)', lineHeight: '1.8', paddingLeft: '1.5rem', listStyleType: 'circle' }}>
@@ -420,6 +425,9 @@ export default function Portfolio() {
             <div style={{ color: 'var(--accent-pink)', marginBottom: '1rem', fontWeight: '500' }}>Oracle</div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span className="tech-tag">Feb 2026</span>
+              <a href="#" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
+                View <ExternalLink size={12} />
+              </a>
             </div>
           </div>
           
@@ -428,6 +436,9 @@ export default function Portfolio() {
             <div style={{ color: 'var(--accent-pink)', marginBottom: '1rem', fontWeight: '500' }}>NPTEL</div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span className="tech-tag">Apr 2025</span>
+              <a href="#" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
+                View <ExternalLink size={12} />
+              </a>
             </div>
           </div>
 
@@ -436,6 +447,9 @@ export default function Portfolio() {
             <div style={{ color: 'var(--accent-pink)', marginBottom: '1rem', fontWeight: '500' }}>Kaggle</div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span className="tech-tag">Nov 2025</span>
+              <a href="#" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ padding: '0.3rem 0.8rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
+                View <ExternalLink size={12} />
+              </a>
             </div>
           </div>
         </div>
