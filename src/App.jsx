@@ -183,9 +183,9 @@ export default function Portfolio() {
               A computer science student focused on extracting actionable insights through data analysis, statistical modeling, and machine learning. Let's solve complex problems with data.
             </p>
             <div className="btn-group">
-              <button onClick={() => scrollToSection('contact')} className="btn btn-primary">
-                Hire Me
-              </button>
+              <a href="/Rudra%20Narayan%20Nayak%2012306470.pdf" target="_blank" rel="noreferrer" className="btn btn-primary">
+                View CV
+              </a>
               <button onClick={() => scrollToSection('projects')} className="btn btn-secondary">
                 View Work
               </button>
